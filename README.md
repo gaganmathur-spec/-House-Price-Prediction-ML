@@ -1,7 +1,17 @@
-# 🏠 House Price Prediction using Machine Learning
+🏠 House Price Prediction
 
-📊 A Machine Learning project that predicts **house prices** using **Linear Regression** on the **King County Housing Dataset**.
+📊 House Price Prediction is a Machine Learning project that predicts house prices using Linear Regression on the King County Housing Dataset.
 
-🔍 Includes **Exploratory Data Analysis (EDA)**, 🧹 data preprocessing, 🤖 model training, 📈 performance evaluation, and 🌐 an interactive **Streamlit web application** for real-time house price predictions.
+🎯 Objective: Build a Machine Learning model capable of estimating house prices based on various property-related features.
 
-🛠️ **Built with:** 🐍 Python | 🐼 Pandas | 🤖 Scikit-learn | 🌐 Streamlit
+✨ Key Features:
+
+- 🏠 House price prediction using Linear Regression
+- 📊 Exploratory Data Analysis (EDA)
+- 🧹 Data cleaning and preprocessing
+- 🤖 Model training
+- 📈 Model performance evaluation
+- 🌐 Interactive Streamlit web application
+- ⚡ Real-time house price predictions
+
+🛠️ Built With: 🐍 Python • 🐼 Pandas • 🔢 NumPy • 🤖 Scikit-learn • 🌐 Streamlit
