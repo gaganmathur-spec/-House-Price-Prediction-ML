@@ -4,7 +4,7 @@
 
 🎯 Objective
 
-Build a Machine Learning system that analyzes property-related features and provides accurate house price estimates.
+Build a Machine Learning system that analyzes property-related features and provides reliable house price estimates.
 
 ✨ Features
 
