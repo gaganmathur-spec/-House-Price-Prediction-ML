@@ -2,14 +2,18 @@
 
 A Machine Learning project that predicts house prices using Linear Regression on the King County Housing Dataset.
 
+🎯 Objective
+
+Analyze housing data and build a Machine Learning model to predict house prices based on relevant property features.
+
 ✨ Features
 
-- 📊 Data Analysis & EDA
+- 📊 Data Analysis & Exploratory Data Analysis
 - 🧹 Data Cleaning & Preprocessing
 - 🤖 Linear Regression Model
-- 📈 Model Evaluation
-- ⚡ Real-Time Prediction
-- 🌐 Streamlit Web App
+- 📈 Model Performance Evaluation
+- ⚡ Real-Time House Price Prediction
+- 🌐 Interactive Streamlit Web App
 
 🛠️ Tech Stack
 
