@@ -4,16 +4,16 @@ A Machine Learning project that predicts house prices using Linear Regression on
 
 🎯 Objective
 
-Analyze housing data and build a Machine Learning model to predict house prices based on relevant property features.
+To analyze housing data and develop a Machine Learning model that predicts house prices based on relevant property features.
 
-✨ Features
+✨ Key Features
 
-- 📊 Data Analysis & Exploratory Data Analysis
+- 📊 Data Analysis & Exploratory Data Analysis (EDA)
 - 🧹 Data Cleaning & Preprocessing
 - 🤖 Linear Regression Model
 - 📈 Model Performance Evaluation
 - ⚡ Real-Time House Price Prediction
-- 🌐 Interactive Streamlit Web App
+- 🌐 Interactive Streamlit Web Application
 
 🛠️ Tech Stack
 
